@@ -1,4 +1,4 @@
-﻿# Card Grade Estimation (image-analysis)
+﻿# Card Grade Estimation 
 
 Estimating the PSA grade (1-10) of a Pokemon trading card from photos of its front and back, using a PyTorch model trained on real graded cards, with a web app for testing your own cards.
 
